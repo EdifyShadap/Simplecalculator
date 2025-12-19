@@ -1,0 +1,31 @@
+# Simple Calculator
+
+## Description
+The Simple Calculator is a basic program that performs fundamental arithmetic operations such as addition, subtraction, multiplication, and division. This project is created to practice basic programming concepts and improve logical thinking.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Simple and easy to use
+
+## Technologies Used
+- C++
+- Standard Input/Output
+
+## How to Run
+1. Copy the source code into a C++ compiler or IDE (such as Code::Blocks, Dev-C++, or online compiler).
+2. Compile the program.
+3. Run the executable file.
+4. Enter numbers and choose the desired operation.
+
+## Purpose
+This project is developed for learning purposes to understand:
+- Variables
+- Operators
+- Conditional statements
+- Basic user input handling
+
+## Author
+Edify Shadap
